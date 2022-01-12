@@ -9,15 +9,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cs.washington.edu/research/nlp">
-<img src="https://github.com/jungokasai/THumB/blob/master/figs/uwnlp_logo.png" height="100" alt="UWNLP Logo">
+<img src="https://github.com/jungokasai/THumB/blob/master/figs/uwnlp_logo.png" height="70" alt="UWNLP Logo">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://yale-lily.github.io/">
-<img src="https://raw.githubusercontent.com/Yale-LILY/SummEval/master/assets/logo-lily.png" height="70" alt="LILY Logo" style="padding-right:160">
+<img src="https://raw.githubusercontent.com/Yale-LILY/SummEval/master/assets/logo-lily.png" height="50" alt="LILY Logo" style="padding-right:160">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.salesforce.com/">
-<img src="https://raw.githubusercontent.com/Yale-LILY/SummEval/master/assets/logo-salesforce.svg" height="70" alt="Salesforce Logo">
+<img src="https://raw.githubusercontent.com/Yale-LILY/SummEval/master/assets/logo-salesforce.svg" height="50" alt="Salesforce Logo">
 </a>
 </p>
 
