@@ -29,10 +29,11 @@ Human evaluations for language generation tasks facilitate development of both g
 ## Citations
 ### MSCOCO Captioning Evaluations and THumB 1.0 Protocol
 ```
-@misc{kasai2021thumb,
+@inproceedings{kasai2021thumb,
     title   = {Transparent Human Evaluation for Image Captioning},
     author  = {Jungo Kasai and Keisuke Sakaguchi and Lavinia Dunagan and Jacob Morrison and Ronan Le Bras and Yejin Choi and Noah A. Smith},
-    year    = {2021},
+    year    = {2022},
+    booktitle = {Proc.\ of NAACL},
     url     = {https://arxiv.org/abs/2111.08940}, 
 }
 ```
