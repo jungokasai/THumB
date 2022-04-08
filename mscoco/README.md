@@ -34,10 +34,11 @@ You can download all 5K test images [here](https://arkdata.cs.washington.edu/msc
 
 ## Citation
 ```
-@misc{kasai2021thumb,
+@inproceedings{kasai2022thumb,
     title   = {Transparent Human Evaluation for Image Captioning},
     author  = {Jungo Kasai and Keisuke Sakaguchi and Lavinia Dunagan and Jacob Morrison and Ronan Le Bras and Yejin Choi and Noah A. Smith},
-    year    = {2021},
+    year    = {2022},
+    booktitle = {Proc.\ of NAACL},
     url     = {https://arxiv.org/abs/2111.08940}, 
 }
 ```
